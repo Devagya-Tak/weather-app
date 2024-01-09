@@ -1,5 +1,5 @@
 var cityname;  // Declare cityname globally
-const apiKey = "2154f0626c00accad0e19be2ce335f24";
+const apiKey = "api_key";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric";
 
 function cityget() {
